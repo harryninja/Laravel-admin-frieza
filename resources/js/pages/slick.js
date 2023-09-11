@@ -1,0 +1,1 @@
+FriezaArmy.helpersOnLoad(['jq-slick']);
